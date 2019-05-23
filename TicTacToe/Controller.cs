@@ -17,6 +17,11 @@ namespace TicTacToe
         {
             _model.updateBoard(Convert.ToInt32(tempString));   //gör om string till int. skickar int till updateBoard
         }
-     
+
+        public void restartButton_pressed()
+        {
+            _model.startGame();   
+        }
+
     }    
 }

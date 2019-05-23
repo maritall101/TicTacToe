@@ -19,3 +19,13 @@ C:\Users\maritall101.STUDENT\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacTo
 \\cifs-s1\home$\maritall101\My Documents\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
 \\cifs-s1\home$\maritall101\My Documents\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
 \\cifs-s1\home$\maritall101\My Documents\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.View.resources
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\maritall101.STUDENT.000\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb

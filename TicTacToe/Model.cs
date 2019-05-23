@@ -24,9 +24,9 @@ namespace TicTacToe
             for(int i = 0; i < 9; i++)
             {
                 board[i] = 0;
-                rounds = 0;
-                winner = 0;
             }
+            rounds = 0;
+            winner = 0;
             turn1 = 1;
             SetChanged();
             NotifyObservers();

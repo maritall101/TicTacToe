@@ -31,7 +31,6 @@ namespace TicTacToe
             buttonArray[6] = GameButton7;
             buttonArray[7] = GameButton8;
             buttonArray[8] = GameButton9;
-
         }
 
         public View()
@@ -44,11 +43,6 @@ namespace TicTacToe
             Button temp = (Button)sender;
             string tempTag = temp.Tag.ToString();
             _controller.button_pressed(tempTag);
-        }
-
-        public void restart_click(object sender, EventArgs e)
-        {
-            //starta nytt spel...
         }
 
         void IObserver.Update(object Model)
@@ -101,6 +95,11 @@ namespace TicTacToe
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             Playername2 = textBox1.Text;
+        }
+
+        private void Restart_Click_1(object sender, EventArgs e)
+        {
+            _controller.restartButton_pressed();
         }
     }
 }
